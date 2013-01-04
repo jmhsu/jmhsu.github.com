@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jmhsu.github.com/sitemap.xml 
+Sitemap: http://jaminhsu.com/sitemap.xml 
